@@ -1,0 +1,16 @@
+body {
+    background: #ffffff;
+    font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+    text-align: center;
+  }
+.title{
+    background: #ffffff;
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    margin: 30px auto;
+    border-bottom: 1px solid #c7c7c7;
+}
+.class{
+    display: inline-block;
+}
